@@ -167,7 +167,7 @@ export const DATA = {
       dates: "September 27th - 28th, 2024",
       location: "Bhilai, Chhattisgarh",
       description:
-        "Developed a mobile application which helps to pay by web3 tokens for car rentals and evcharging.",
+        "Developed a mobile application which helps to pay by web3 tokens for car rentals and evcharging. Secured 1st postion in top 30 inovators.",
       image:
         "/hts.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2024/mlh-trust-badge-2024-white.svg",
