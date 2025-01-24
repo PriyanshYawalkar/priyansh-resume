@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Cybersecurity Researcher and Full-stack Developer. I love building things and helping people. Very active on Twitter & Linkedin.",
   summary:
-    "At the end of 2022, I started my journey as security researcher before that I am into fulltime into building and scaling my own full stack projects. At present, [I am persuing a degree in computer science](/#education), [competed in 2 hackathons where I have learend a lot of things](/#hackathons), I am also contributing as Tech Lead at GDG On Campus.",
+    "At the end of 2022, I started my journey as security researcher before that I am into fulltime building and scaling my own full stack projects. At present, [I am persuing a degree in computer science](/#education), [competed in 2 hackathons where I have learned a lot of things](/#hackathons), I am also contributing as Tech Lead at GDG On Campus.",
   avatarUrl: "/me.png",
   skills: [
     "React Native",
