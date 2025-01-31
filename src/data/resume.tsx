@@ -149,6 +149,36 @@ export const DATA = {
       image: "/lmhy.png",
       video: "",
     },
+    {
+      title: "SkinTone-AI",
+      href: "#",
+      dates: "Jan'2025 - Jan'2025",
+      active: true,
+      description:
+        "This custom made AI model can detect the skin tone of a person and can suggest the best suitable watch or color of strap for them to look cool.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Kaggel",
+        "ML",
+        "TailwindCSS",
+        "Firebase",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "#",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/priyanshyawalkar/skintone-ai/",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/skai.png",
+      video: "",
+    },
   ],
   hackathons: [
     {
