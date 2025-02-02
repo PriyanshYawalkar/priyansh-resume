@@ -153,7 +153,7 @@ export const DATA = {
       title: "SkinTone-AI",
       href: "#",
       dates: "Jan'2025 - Jan'2025",
-      active: true,
+      active: false,
       description:
         "This custom made AI model can detect the skin tone of a person and can suggest the best suitable watch or color of strap for them to look cool.",
       technologies: [
